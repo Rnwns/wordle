@@ -1,0 +1,32 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #f0f1f2;
+  padding-bottom: 15px;
+  margin-bottom: 7px;
+}
+
+#timer {
+  font-weight: bold;
+}
+.icon-first {
+  width: 90px;
+}
+.icon-first img {
+  width: 30px;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: bold;
+}
+.icon-last {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.icon-last img {
+  width: 30px;
+}

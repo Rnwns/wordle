@@ -1,0 +1,35 @@
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  margin-top: 10px;
+}
+
+.key-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3px;
+}
+
+.key-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  width: 50px;
+  height: 60px;
+  background-color: #e3e6eb;
+  font-weight: bold;
+}
+
+.block-big {
+  width: 75px;
+  height: 60px;
+}
+
+.block-big img {
+  width: 40px;
+}
